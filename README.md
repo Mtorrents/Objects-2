@@ -1,3 +1,3 @@
 # Objects-2
 
-Desarrollado con java y sql
+Developed with java and sql
